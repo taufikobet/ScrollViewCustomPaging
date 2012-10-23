@@ -1,5 +1,5 @@
 //
-//  BBViewController.h
+//  BBExtendedHitView.h
 //  ScrollViewCustomPaging
 //
 //  Created by Taufik on 10/23/12.
@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BBViewController : UIViewController
-@property (weak, nonatomic) IBOutlet UIScrollView *scrollView;
+@interface BBExtendedHitView : UIView
 
 @end
