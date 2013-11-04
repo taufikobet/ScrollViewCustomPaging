@@ -1,4 +1,3 @@
 language: objective-c
-
-before_script: travis/before_script.sh
-script: travis/script.sh
+xcode_project: ScrollViewCustomPaging.xcodeproj
+xcode_scheme: ScrollViewCustomPaging
